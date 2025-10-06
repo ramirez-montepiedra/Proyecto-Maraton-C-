@@ -1,2 +1,0 @@
-# Proyecto-Maraton-C-
-miselania
